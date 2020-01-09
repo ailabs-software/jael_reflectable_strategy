@@ -7,3 +7,4 @@ environment:
 dependencies:
   jael:
     path: /opt/deployment/dartpackages/external/jael
+  reflectable: any
