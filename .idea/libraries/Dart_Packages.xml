@@ -1,0 +1,92 @@
+<component name="libraryTable">
+  <library name="Dart Packages" type="DartPackagesLibraryType">
+    <properties>
+      <option name="packageNameToDirsMap">
+        <entry key="args">
+          <value>
+            <list>
+              <option value="/home/shopwindow/.pub-cache/hosted/pub.dartlang.org/args-1.5.2/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="charcode">
+          <value>
+            <list>
+              <option value="/home/shopwindow/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.2/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="code_buffer">
+          <value>
+            <list>
+              <option value="/home/shopwindow/.pub-cache/hosted/pub.dartlang.org/code_buffer-1.0.1/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="jael">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../jael/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="meta">
+          <value>
+            <list>
+              <option value="/home/shopwindow/.pub-cache/hosted/pub.dartlang.org/meta-1.1.8/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="path">
+          <value>
+            <list>
+              <option value="/home/shopwindow/.pub-cache/hosted/pub.dartlang.org/path-1.6.4/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="source_span">
+          <value>
+            <list>
+              <option value="/home/shopwindow/.pub-cache/hosted/pub.dartlang.org/source_span-1.5.5/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="string_scanner">
+          <value>
+            <list>
+              <option value="/home/shopwindow/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.0.5/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="symbol_table">
+          <value>
+            <list>
+              <option value="/home/shopwindow/.pub-cache/hosted/pub.dartlang.org/symbol_table-2.0.0/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="term_glyph">
+          <value>
+            <list>
+              <option value="/home/shopwindow/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.1.0/lib" />
+            </list>
+          </value>
+        </entry>
+      </option>
+    </properties>
+    <CLASSES>
+      <root url="file:///home/shopwindow/.pub-cache/hosted/pub.dartlang.org/args-1.5.2/lib" />
+      <root url="file:///home/shopwindow/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.2/lib" />
+      <root url="file:///home/shopwindow/.pub-cache/hosted/pub.dartlang.org/code_buffer-1.0.1/lib" />
+      <root url="file:///home/shopwindow/.pub-cache/hosted/pub.dartlang.org/meta-1.1.8/lib" />
+      <root url="file:///home/shopwindow/.pub-cache/hosted/pub.dartlang.org/path-1.6.4/lib" />
+      <root url="file:///home/shopwindow/.pub-cache/hosted/pub.dartlang.org/source_span-1.5.5/lib" />
+      <root url="file:///home/shopwindow/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.0.5/lib" />
+      <root url="file:///home/shopwindow/.pub-cache/hosted/pub.dartlang.org/symbol_table-2.0.0/lib" />
+      <root url="file:///home/shopwindow/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.1.0/lib" />
+      <root url="file://$PROJECT_DIR$/../jael/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

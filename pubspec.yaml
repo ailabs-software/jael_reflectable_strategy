@@ -1,8 +1,9 @@
 name: jael_reflectable_strategy 
-version: 1.0 
+version: 1.0.0 
 description: Implements member resolution strategy for jael using package:reflectable.
 author: Nobody
 environment:
   sdk: ">=2.0.0 <3.0.0"
 dependencies:
-  jael: ^2.0.0
+  jael:
+    path: /opt/deployment/dartpackages/external/jael
