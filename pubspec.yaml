@@ -3,7 +3,7 @@ version: 1.0.0
 description: Implements member resolution strategy for jael using package:reflectable.
 author: Nobody
 environment:
-  sdk: ">=2.0.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
 dependencies:
   jael:
     path: /opt/deployment/dartpackages/external/jael

@@ -10,9 +10,9 @@ class ReflectableMemberResolver implements IMemberResolver
   ReflectableMemberResolver(Reflectable this._reflectable);
 
   @override
-  Object getMember(Object target, String name)
+  Object? getMember(Object? target, String name)
   {
-    InstanceMirror instanceMirror = _reflectable.reflect(target);
+    InstanceMirror instanceMirror = _reflectable.reflect(target!);
     return instanceMirror.invokeGetter(name);
   }
 }
